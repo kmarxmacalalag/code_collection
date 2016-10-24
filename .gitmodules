@@ -1,0 +1,3 @@
+[submodule "my_javascript"]
+	path = my_javascript
+	url = git@github.com:kmarxmacalalag/my_javascript.git
